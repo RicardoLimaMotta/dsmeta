@@ -30,7 +30,7 @@ The **DSMeta** project was developed during the **11th Edition of DevSuperior's 
 - **TypeScript**
 - **Axios**
 
-Auxiliary dependencies can be found at: [dependencies](https://github.com/lucasferreiraz/dsmeta/network/dependencies).
+Auxiliary dependencies can be found at: [dependencies](https://github.com/RicardoLimaMotta/dsmeta/network/dependencies).
 
 
 ## Layout 🔖
